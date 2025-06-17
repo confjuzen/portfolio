@@ -1,0 +1,5 @@
+{
+    "about": "Hi! I'm Toby Foster, a web developer and graphic designer specializing in both front-end and back-end development. I completed a web development program with OpenClassrooms and studied graphic design at Manchester Metropolitan University. I'm starting a master's-level program at Epitech, a leading French tech school, in September. I'm currently looking for an apprenticeship position starting in January to accompany this program.",
+    "skillsTitle": "SKILLS",
+    "skills": ["React", "CSS", "JavaScript", "TypeScript", "Node.js", "Express.js", "MongoDB", "Git", "Python", "SEO", "Notion", "HTML"]
+}

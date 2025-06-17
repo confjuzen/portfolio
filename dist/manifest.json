@@ -1,0 +1,24 @@
+{
+    "name": "Toby Foster - Full Stack Developer & Graphic Designer",
+    "short_name": "Toby Foster",
+    "description": "Full stack developer and graphic designer, fluent in English and French. Discover my work at Confjuzen.com.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#ff014a",
+    "orientation": "portrait",
+    "icons": [
+      {
+        "src": "https://avatars.githubusercontent.com/u/190952675?s=400&u=8e2b4908d51de99305dc98c9f2c94388d02548c3&v=4",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "https://avatars.githubusercontent.com/u/190952675?s=400&u=8e2b4908d51de99305dc98c9f2c94388d02548c3&v=4",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "lang": "en"
+  }
+  

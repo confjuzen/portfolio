@@ -1,0 +1,5 @@
+{
+    "about": "Salut ! Je suis Toby Foster, développeur web et graphiste spécialisé dans le développement front-end et back-end. J'ai suivi une formation en développement web chez OpenClassrooms, et j'ai étudié le graphisme à la Manchester Metropolitan University. Je vais intégrer Epitech, une grande école d’informatique, en septembre dans le cadre d’un programme de niveau master. Je serai à la recherche d’un poste en alternance à partir de janvier pour accompagner cette formation.",
+    "skillsTitle": "SKILLS",
+    "skills": ["React", "CSS", "JavaScript", "TypeScript", "Node.js", "Express.js", "MongoDB", "Git", "Python", "SEO", "Notion", "HTML"]
+}

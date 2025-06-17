@@ -1,0 +1,20 @@
+{   
+    "linksTitle": "LINKS",
+    "links": [
+        {
+            "title": "EMAIL",
+            "url": "mailto:toby@confjuzen.com"
+        },
+        {
+            "title": "INSTAGRAM",
+            "url": "https://instagram.com/confjuzen"
+        },
+        {
+            "title": "LINKEDIN",
+            "url": "https://www.linkedin.com/in/toby-foster-970770345/"
+        },
+        {   "title": "GITHUB",
+            "url": "https://github.com/confjuzen"
+        }
+    ]
+}

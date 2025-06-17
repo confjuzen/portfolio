@@ -1,0 +1,69 @@
+{
+  "webprojectsTitle": "WEB DEVELOPMENT~",
+  "webprojects": {
+    "Qwenta": {
+      "title": "Qwenta",
+      "discriptiontitle": "This is the sixth project of the OpenClassrooms Web Developer path.",
+      "discription": "Plan and structure the development of a client website based on user needs, without writing any code. This project focuses on project management, technical specifications, and technology watch.. Tasked with planning the Menu Maker web app (for restaurant menu creation)",
+      "url": "https://github.com/confjuzen/qwenta",
+      "tags": ["notion", "feedly", "AWS", "Docker"],
+      "img1": "./img/projects/1.png",
+      "img2": "./img/projects/2.png",
+      "img3": "./img/projects/3.png"
+    },
+    "Mon Vieux Grimoire": {
+      "title": "Mon Vieux Grimoire",
+      "discriptiontitle": "This is the fith project of the OpenClassrooms Web Developer path.",
+      "discription": "Develop the full back-end architecture and API for a book review platform called Mon Vieux Grimoire, built for a bookstore chain based in Lille. I worked closely with a front-end developer to deliver a secure and optimized Express server connected to MongoDB. The goal was to provide full CRUD features, secure authentication, and image optimization while following eco-friendly Green Code practices.",
+      "url": "https://github.com/confjuzen/server-grimoire",
+      "tags": ["Node", "Express", "MongoDB", "Mongoose", "JWT", "bcrypt", "Security", "sharp"],
+      "img1": "./img/projects/grim1.png",
+      "img2": "./img/projects/grim2.png",
+      "img3": "./img/projects/grim3.png"
+    },
+    "Nina Carducci": {
+      "title": "Nina Carducci",
+      "discriptiontitle": "This is the third project of the OpenClassrooms Web Developer path.",
+      "discription": "I worked on a photographer’s website, Nina Carducci, to improve its performance, accessibility, and SEO. I fixed bugs, optimized code and images, added SEO metadata, and implemented local SEO using Schema.org. I also delivered a detailed report showing the before/after results.",
+      "url": "https://github.com/confjuzen/nina-optimization-project-documentation",
+      "tags": ["SEO", "Performance optimization", "JavaScript bug fixing", "Metadata integration"],
+      "img1": "https://confjuzen.github.io/nina-optimization-project-documentation/reports/15.png",
+      "img2": "https://confjuzen.github.io/nina-optimization-project-documentation/reports/16.png",
+      "img3": "https://confjuzen.github.io/nina-optimization-project-documentation/reports/final.png"
+    },
+    "Sophie Bluel": {
+      "title": "Sophie Bluel",
+      "discriptiontitle": "This is the second project of the OpenClassrooms Web Developer path.",
+      "discription": "Build a dynamic web page using vanilla JavaScript to showcase an interior architect’s portfolio, including: a project gallery page, a secure login page for admin access and a modal window to upload new media files. I join a front-end dev team at a digital agency to assist in completing the architect’s portfolio site. I received static HTML/CSS code, a working backend, and design mockups via Figma.",
+      "url": "https://github.com/confjuzen/Portfolio-architecte-sophie-bluel",
+      "tags": ["JavaScript", "HTML", "CSS", "API"],
+      "img1": "./img/projects/Sophie1.png",
+      "img2": "./img/projects/Sophie2.png",
+      "img3": "./img/projects/Sophie3.png"
+    },
+    "Kasa": {
+      "title": "Kasa",
+      "discriptiontitle": "This is the fourth project of the OpenClassrooms Web Developer path.",
+      "discription": "Build the user interface of a rental platform for Kasa, based on Figma designs and mock data from a JSON file. The goal was to develop a modern, responsive front-end using React and React Router for smooth page transitions. The project emphasized component architecture and visual consistency without relying on a backend, while implementing precise UI behaviors (image carousel, collapsible menus…).",
+      "url": "https://github.com/confjuzen/kasa",
+      "tags": ["React", "React Router", "Vite", "Custom Animations and image gallery logic"],
+      "img1": "./img/projects/kasa1.webp",
+      "img2": "./img/projects/kasa2.png",
+      "img3": "./img/projects/kasa3.webp"
+    },
+    "Booki": {
+      "title": "Booki",
+      "discriptiontitle": "This is the first project of the OpenClassrooms Web Developer path.",
+      "discription": "Build a responsive static website that lets users find accommodation and tourist activities in the city of their choice. You play the role of a junior developer starting an internship at a startup. Your task is to implement Figma mockups into a real website while following modern front-end development standards.",
+      "url": "https://github.com/confjuzen/booki",
+      "tags": ["html", "css", "Flexbox"],
+      "img1": "./img/projects/booki1.png",
+      "img2": "./img/projects/booki2.png",
+      "img3": "./img/projects/booki3.png"
+    }
+
+
+
+
+  }
+}

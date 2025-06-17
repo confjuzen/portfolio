@@ -1,0 +1,14 @@
+
+  {
+    "projectsTitle": "PROJETS",
+    "projects": {
+      "webdev": {
+        "title": "DÉVELOPPEMENT WEB",
+        "url": "/webdev"
+      },
+      "graphics": {
+        "title": "GRAPHISME",
+        "url": "/graphics"
+      }
+    }
+  }

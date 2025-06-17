@@ -1,0 +1,72 @@
+{
+  "webprojectsTitle": "WEB DEVELOPMENT~",
+  "webprojects": {
+    "Qwenta": {
+      "title": "Qwenta",
+      "discriptiontitle": "Ce projet est le sixième projet de la formation OpenClassrooms – Développeur Web.",
+      "discription": "Planifier le développement d’un site web à partir de besoins utilisateurs, sans écrire de code. Ce projet met l’accent sur la gestion de projet, la rédaction de spécifications techniques, et la veille technologique.",
+      "difficulties": "Difficultés rencontrées : Première approche de la gestion de projet, avec un vocabulaire et des méthodes nouveaux. Difficultés à prendre la parole et à structurer une présentation technique. Apprentissage progressif de la décomposition des fonctionnalités en tâches claires",
+      "url": "https://github.com/confjuzen/qwenta",
+      "tags": ["notion", "feedly", "AWS", "Docker"],
+      "img1": "./img/projects/1.png",
+      "img2": "./img/projects/2.png",
+      "img3": "./img/projects/3.png"
+    },
+    "Mon Vieux Grimoire": {
+      "title": "Mon Vieux Grimoire",
+      "discriptiontitle": "Ce projet est le cinquième projet de la formation OpenClassrooms – Développeur Web.",
+      "discription": "Développer l’API et la logique serveur d’un site de notation de livres nommé Mon Vieux Grimoire, pour une chaîne de librairies à Lille. En collaboration avec un développeur front-end, j’ai conçu toute la partie back-end en Node.js et Express, en respectant un cahier des charges détaillé. Le projet visait à créer une application sécurisée, performante, conforme aux bonnes pratiques du Green Code, avec gestion des utilisateurs, des livres, des notations et des images.",
+      "difficulties": "Difficultés rencontrées : la gestion des images, la gestion des erreurs, la sécurité.",
+      "url": "https://github.com/confjuzen/server-grimoire",
+      "tags": ["Node", "Express", "MongoDB", "Mongoose", "JWT", "bcrypt", "Sécurité", "sharp"],
+      "img1": "./img/projects/grim1.png",
+      "img2": "./img/projects/grim2.png",
+      "img3": "./img/projects/grim3.png"
+    },
+    "Nina Carducci": {
+      "title": "Nina Carducci",
+      "discriptiontitle": "Ce projet est le troisième projet de la formation OpenClassrooms – Développeur Web.",
+      "discription": "J’ai travaillé sur le site d’une photographe, Nina Carducci, pour améliorer ses performances, son accessibilité et son référencement. J’ai corrigé plusieurs bugs, optimisé le code et les images, ajouté des métadonnées pour le SEO et mis en place un référencement local via Schema.org. Un rapport détaillant les résultats avant/après a été livré à la cliente.",
+      "difficulties": "Difficultés rencontrées : Difficultés avec la minification JavaScript, notamment avec certains scripts qui cassaient après minification. Incompréhensions initiales sur des éléments du SEO (comme les balises Open Graph, les méta-descriptions optimisées ou l’impact des titres hiérarchiques). Rechercher les bonnes pratiques d’optimisation sans altérer l’apparence ou le fonctionnement du site",
+      "url": "https://github.com/confjuzen/nina-optimization-project-documentation",
+      "tags": ["SEO", "Performance optimization", "Corrections JavaScript", "Intégration de métadonnées"],
+      "img1": "https://confjuzen.github.io/nina-optimization-project-documentation/reports/15.png",
+      "img2": "https://confjuzen.github.io/nina-optimization-project-documentation/reports/16.png",
+      "img3": "https://confjuzen.github.io/nina-optimization-project-documentation/reports/final.png"
+    },
+    "Sophie Bluel": {
+      "title": "Sophie Bluel",
+      "discriptiontitle": "Ce projet est le deuxième projet de la formation OpenClassrooms – Développeur Web.",
+      "discription": "Développer un site web dynamique en JavaScript pour présenter les réalisations d’une architecte d’intérieur, incluant : une page de présentation des projets, une interface d’administration sécurisée (login) et une modale d’ajout de nouveaux médias. J'interviens en tant que développeur front-end dans une agence, pour aider à finaliser le portfolio en ligne d’une architecte. J'ai récupèrer une base HTML/CSS statique, un backend existant (fourni), et des maquettes Figma à suivre.",
+      "url": "https://github.com/confjuzen/Portfolio-architecte-sophie-bluel",
+      "tags": ["JavaScript", "HTML", "CSS", "API"],
+      "img1": "./img/projects/Sophie1.png",
+      "img2": "./img/projects/Sophie2.png",
+      "img3": "./img/projects/Sophie3.png"
+    },
+    "Kasa": {
+      "title": "Kasa",
+      "discriptiontitle": "Ce projet est le quatrieme projet de la formation OpenClassrooms – Développeur Web.",
+      "discription": "Concevoir l’interface d’un site de location d’appartements pour l’entreprise Kasa, en suivant des maquettes Figma et en simulant les données à partir d’un fichier JSON. L’objectif principal était de créer une application responsive et dynamique en React, avec une navigation fluide grâce à React Router. Le projet m’a permis de structurer une interface professionnelle sans back-end, en respectant des contraintes fonctionnelles précises (comportement de la galerie, collapses interactifs…).",
+      "url": "https://github.com/confjuzen/kasa",
+      "tags": ["React", "React Router", "Vite", "Gestion avancée animations et de la galerie d’images"],
+      "img1": "./img/projects/kasa1.webp",
+      "img2": "./img/projects/kasa2.png",
+      "img3": "./img/projects/kasa3.webp"
+    },
+    "Booki": {
+      "title": "Booki",
+      "discriptiontitle": "Ce projet est le premier projet de la formation OpenClassrooms – Développeur Web.",
+      "discription": "Créer un site web statique responsive permettant aux utilisateurs de rechercher des hébergements et des activités touristiques dans une ville donnée. Dans un scénario professionnel fictif, vous débutez une alternance dans une start-up qui souhaite mettre en ligne ce site. L’objectif est d’intégrer des maquettes Figma en respectant les bonnes pratiques de développement front-end.",
+      "url": "https://github.com/confjuzen/booki",
+      "tags": ["html", "css", "Flexbox"],
+      "img1": "./img/projects/booki1.png",
+      "img2": "./img/projects/booki2.png",
+      "img3": "./img/projects/booki3.png"
+    }
+
+
+
+
+  }
+}
